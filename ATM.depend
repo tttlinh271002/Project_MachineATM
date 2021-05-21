@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1621572548 source:c:\users\linh\desktop\atm\accountatm.cpp
+	"accountatm.h"
+	<ctime>
+	<time.h>
+	<conio.h>
+
+1621572548 c:\users\linh\desktop\atm\accountatm.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
+1621572787 source:c:\users\linh\desktop\atm\atm.cpp
+	"accountatm.h"
+
